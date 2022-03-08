@@ -1,2 +1,2 @@
-# Stuff i made at school
-bored at school
+# Isaiah's School Projects
+C, Python and more!
