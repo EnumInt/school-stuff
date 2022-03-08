@@ -16,12 +16,7 @@ int mkseed(void) {
 }
 
 int main(void) {
-
-  //print intro text
-  printf("Welcome to the Random Number Generator!\n");
-  printf("=======================================\n");
   mkseed();
-  
   printf("\e[0;92m");
   printf("Your random number is: %i\n", randomnum);
 
