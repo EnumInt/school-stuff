@@ -8,7 +8,6 @@ int seed;
 int mkseed(void) {
   time_t seconds;
   seconds = time(NULL);
-
   seed = 1024 * seconds;
   randomnum = seed * seconds;
   // i don't even know if i have to return this function :p
