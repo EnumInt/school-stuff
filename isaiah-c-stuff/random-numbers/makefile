@@ -1,7 +1,7 @@
 OBJS	= main.o
 SOURCE	= main.c
 HEADER	= 
-OUT	= main
+OUT	= randnum
 CC	 = gcc
 FLAGS	 = -g -c -Wall
 LFLAGS	 = 

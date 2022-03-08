@@ -16,7 +16,7 @@ int main(void) {
   //print intro text
   printf("Welcome to the Random Number Generator!\n");
   printf("=======================================\n");
-  printf("%ld\n", randomnum);
+  printf("%i\n", randomnum);
   
   return 0;
 }
